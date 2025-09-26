@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Stat515 Website"
+  title: "Sean Reilly's Data Analytics Website"
   navbar:
     left:
       - href: index.qmd

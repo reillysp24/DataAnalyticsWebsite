@@ -1,5 +1,7 @@
 ---
-title: "Stat515 Website"
+title: "Sean Reilly's Data Analytics Website"
 ---
 
-This is a Quarto website for Sean Reilly's STAT515 Visualization for Analytics course at GMU Fall 2025.
+This is a Quarto website for my Data Analytics projects while working towards my Master's in Data Analytics Engineering at GMU. Projects housed on this website were completed during the courses listed below:
+
+STAT515 Visualization for Analytics - Fall 2025
