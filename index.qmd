@@ -1,0 +1,5 @@
+---
+title: "Stat515 Website"
+---
+
+This is a Quarto website for Sean Reilly's STAT515 Visualization for Analytics course at GMU Fall 2025.

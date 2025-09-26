@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+My name is Sean Reilly, and I currently work at CyberData Technologies, Inc. as a Business Analyst. I am also a Swim Coach for Streamline Swim Club. I graduated Lafayette College in Spring 2024 with a BS in Math and Minor in Data Science. I am a detail-oriented problem solver with a strong foundation in data analysis, data modeling, analytical thinking, communication, and collaboration. I had the amazing opportunity to take the position as my community summer swim team's Head Coach for 3 summers while in college, pursuing a passion of mine, giving back to my community, and developing valuable skills along the way including leadership, interpersonal skills, organizational skills, and written communication.
+
+![Sean Reilly, Spring 2024](IMG_8492.jpeg){fig-align="left" width="250"}
+
+In addition to working full-time as a Business Analyst and part-time as a Swim Coach, I am now working towards getting my Master's in Data Analytics Engineering at George Mason University. This website serves to highlight my projects while pursuing my Master's at GMU.

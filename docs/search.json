@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Sean Reilly, and I currently work at CyberData Technologies, Inc. as a Business Analyst. I am also a Swim Coach for Streamline Swim Club. I graduated Lafayette College in Spring 2024 with a BS in Math and Minor in Data Science. I am a detail-oriented problem solver with a strong foundation in data analysis, data modeling, analytical thinking, communication, and collaboration. I had the amazing opportunity to take the position as my community summer swim team’s Head Coach for 3 summers while in college, pursuing a passion of mine, giving back to my community, and developing valuable skills along the way including leadership, interpersonal skills, organizational skills, and written communication.\n\n\n\nSean Reilly, Spring 2024\n\n\nIn addition to working full-time as a Business Analyst and part-time as a Swim Coach, I am now working towards getting my Master’s in Data Analytics Engineering at George Mason University. This website serves to highlight my projects while pursuing my Master’s at GMU."
+  },
+  {
+    "objectID": "Project2.html",
+    "href": "Project2.html",
+    "title": "Project2",
+    "section": "",
+    "text": "This page is for my second project."
+  },
+  {
+    "objectID": "Project1.html",
+    "href": "Project1.html",
+    "title": "Project1",
+    "section": "",
+    "text": "This page is for my first project."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stat515 Website",
+    "section": "",
+    "text": "This is a Quarto website for Sean Reilly’s STAT515 Visualization for Analytics course at GMU Fall 2025."
+  }
+]
